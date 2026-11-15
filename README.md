@@ -16,13 +16,19 @@ No build step, package manager, external CDN, or internet connection is required
 - Manual ability score entry with live modifiers
 - Editable class hit die, chakra die, level-1 HP base and chakra base
 - Automatic HP, Chakra, proficiency, AC and initiative calculations
+- Clan feature browser with selectable features and full descriptions
+- Full clan-jutsu library: 418 techniques across 39 clan lists, with rank, costs, components, keywords, prerequisites and complete descriptions where provided by the source
+- Clan traits and lineage details displayed separately from feature descriptions
+- Searchable clan-jutsu selector with one-click add to the character sheet
 - Jutsu, features and inventory lists
 - Local browser save, JSON export/import, and print / Save as PDF
 - Responsive layout for desktop and mobile
 
 ## Rules integrity notes
 
-This is the working foundation, not a complete machine-readable transcription of the sourcebooks. It intentionally does not auto-apply recommended clan ability-score increases, assume a point-buy budget, certify jutsu prerequisites, or invent class-specific values. Enter class hit die, chakra die, level-1 HP base, chakra base, armor bonus, and feature text from the relevant source entry. The default proficiency progression and base AC formula follow the core Naruto 5E character rules surfaced in the supplied rules material. Confirm all selections against the current compendiums before play.
+This remains a partial rules engine, but the clan reference is now source-populated. The clan browser includes all 44 clan entries, 230 named feature headings, and 418 clan jutsu across the 39 clans that have separate clan-jutsu lists in Tsunade’s Studies Compendium. Hatake, Hoshigaki, Kurama, Sarutobi and Shí Hóu do not have separate clan-jutsu lists in that compendium; the site reports that rather than inventing techniques. It intentionally does not auto-apply recommended clan ability-score increases, assume a point-buy budget, certify jutsu prerequisites, or invent class-specific values. Enter class hit die, chakra die, level-1 HP base, chakra base, armor bonus, and feature text from the relevant source entry. The default proficiency progression and base AC formula follow the core Naruto 5E character rules surfaced in the supplied rules material. Confirm all selections against the current compendiums before play.
+
+Clan feature descriptions and clan jutsu are transcribed from Tsunade’s Studies Compendium; line wrapping is normalized for screen display. Jutsu are added to a character sheet as selected entries only. The creator does not automatically grant them or certify their rank, prerequisites, affinities, clan ability point purchases, or character-level access.
 
 The clan and class catalogs are separated correctly: Non-Clan, Bloodline Latents and Legacy Content are not listed as clans; class specializations are recorded separately from the 11 main classes.
 
